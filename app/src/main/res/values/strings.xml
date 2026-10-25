@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PulseFolio</string>
+    <string name="tagline_institutional">Global Markets • Cloud Portfolio • EMI &amp; FIRE Wealth Lab</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="nav_markets">Markets</string>
+    <string name="nav_portfolio">Portfolio</string>
+    <string name="nav_emi_lab">EMI Lab</string>
+    <string name="nav_wealth_lab">Wealth</string>
+    <string name="market_live_feed">LIVE STREAMING FEED</string>
+    <string name="search_stocks_hint">Search US &amp; Global stocks (e.g. AAPL, NVDA, TCS.NS)…</string>
+    <string name="add_holding_button">Add Position</string>
+    <string name="save_emi_plan_button">Save EMI Plan to Cloud</string>
+    <string name="empty_portfolio_title">Your Global Cloud Portfolio is Empty</string>
+    <string name="empty_portfolio_subtitle">Add your first stock position or load starter global blue-chip positions to track real-time P&amp;L, dividends, and allocation.</string>
+    <string name="seed_starter_portfolio">Load Global Blue-Chip Portfolio</string>
+    <string name="alert_service_running_title">PulseFolio Price Target Monitor Active</string>
+    <string name="alert_service_running_body">Monitoring your portfolio &amp; watchlist stocks for live price target hits.</string>
+    <string name="alert_service_stop_action">Stop Monitor</string>
+    <string name="alert_channel_name">Stock Price Target Alerts</string>
+    <string name="alert_channel_desc">High-priority notifications when a portfolio or watchlist stock reaches its target price.</string>
+    <string name="monitor_channel_name">Live Portfolio Price Monitor</string>
+    <string name="monitor_channel_desc">Foreground status for real-time portfolio target monitoring.</string>
+    <!-- Google AdMob Official Test IDs (Replace with your live AdMob IDs from admob.google.com before Play Store launch) -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
